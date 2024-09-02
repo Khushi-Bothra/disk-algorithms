@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/disk-algorithms/static/css/main.bc14d84a.css",
+    "main.js": "/disk-algorithms/static/js/main.0969cf8f.js",
+    "index.html": "/disk-algorithms/index.html",
+    "main.bc14d84a.css.map": "/disk-algorithms/static/css/main.bc14d84a.css.map",
+    "main.0969cf8f.js.map": "/disk-algorithms/static/js/main.0969cf8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc14d84a.css",
+    "static/js/main.0969cf8f.js"
+  ]
+}
